@@ -7,8 +7,6 @@ docker container that allows to run WPS workflow using IFS dataset as input.
 
 To build the images, after you clone the repo locally:
 
-
-
 ### Build ifs and gfs WPS image
 
 ```bash
