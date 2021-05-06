@@ -1,5 +1,4 @@
-#FROM cimafoundation/wps-da.run:v2.0.4
-FROM cimafoundation/wps-da.run:latest
+FROM cimafoundation/wps-da.run:v2.0.5
 ADD namelists namelists
 ENV WPS_INPUT IFS
 CMD bash common-start.sh
